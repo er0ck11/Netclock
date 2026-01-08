@@ -9,4 +9,4 @@ After firmware flashing,  display will show "confiugre me" and youll see an open
 
 Confgure open weather map API key, location, then set Wifi.  To access config page again youll need to turn off wifi and force reconfig.  You can also connect to USB and send 'RESET" serial command.  
 
-Working on GPIO reset button.
+Working on GPIO reset button.  Original code was for tetris effects, but shifted directions. 
