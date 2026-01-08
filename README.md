@@ -1,6 +1,15 @@
 # Netclock
 Internet clock for esp32 and P3 64x32 RGB Matrix
 
+Requires following libraries;
+<ESP32-HUB75-MatrixPanel-I2S-DMA.h>
+<WiFiManager.h> 
+<ArduinoJson.h>
+<HTTPClient.h>
+<NTPClient.h>
+<Preferences.h>
+<time.h> 
+
 Follow custom pinout in config
 
 Shows time on the 7s and on the hour.
